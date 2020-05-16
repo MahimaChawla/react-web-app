@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MahimaChawla/react-web-app.git/static/css/main.0109b69b.chunk.css",
-    "main.js": "/MahimaChawla/react-web-app.git/static/js/main.3d9565d0.chunk.js",
-    "main.js.map": "/MahimaChawla/react-web-app.git/static/js/main.3d9565d0.chunk.js.map",
-    "runtime-main.js": "/MahimaChawla/react-web-app.git/static/js/runtime-main.22c4b35a.js",
-    "runtime-main.js.map": "/MahimaChawla/react-web-app.git/static/js/runtime-main.22c4b35a.js.map",
-    "static/js/2.eba4ac5a.chunk.js": "/MahimaChawla/react-web-app.git/static/js/2.eba4ac5a.chunk.js",
-    "static/js/2.eba4ac5a.chunk.js.map": "/MahimaChawla/react-web-app.git/static/js/2.eba4ac5a.chunk.js.map",
-    "index.html": "/MahimaChawla/react-web-app.git/index.html",
-    "precache-manifest.9648b84c7fd6c23e30362f0d69df5747.js": "/MahimaChawla/react-web-app.git/precache-manifest.9648b84c7fd6c23e30362f0d69df5747.js",
-    "service-worker.js": "/MahimaChawla/react-web-app.git/service-worker.js",
-    "static/css/main.0109b69b.chunk.css.map": "/MahimaChawla/react-web-app.git/static/css/main.0109b69b.chunk.css.map",
-    "static/js/2.eba4ac5a.chunk.js.LICENSE.txt": "/MahimaChawla/react-web-app.git/static/js/2.eba4ac5a.chunk.js.LICENSE.txt"
+    "main.css": "/react-web-app.git/static/css/main.0109b69b.chunk.css",
+    "main.js": "/react-web-app.git/static/js/main.5642c1b6.chunk.js",
+    "main.js.map": "/react-web-app.git/static/js/main.5642c1b6.chunk.js.map",
+    "runtime-main.js": "/react-web-app.git/static/js/runtime-main.104e665f.js",
+    "runtime-main.js.map": "/react-web-app.git/static/js/runtime-main.104e665f.js.map",
+    "static/js/2.eba4ac5a.chunk.js": "/react-web-app.git/static/js/2.eba4ac5a.chunk.js",
+    "static/js/2.eba4ac5a.chunk.js.map": "/react-web-app.git/static/js/2.eba4ac5a.chunk.js.map",
+    "index.html": "/react-web-app.git/index.html",
+    "precache-manifest.2354a8fcb939de0e826d3985d5a0f886.js": "/react-web-app.git/precache-manifest.2354a8fcb939de0e826d3985d5a0f886.js",
+    "service-worker.js": "/react-web-app.git/service-worker.js",
+    "static/css/main.0109b69b.chunk.css.map": "/react-web-app.git/static/css/main.0109b69b.chunk.css.map",
+    "static/js/2.eba4ac5a.chunk.js.LICENSE.txt": "/react-web-app.git/static/js/2.eba4ac5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22c4b35a.js",
+    "static/js/runtime-main.104e665f.js",
     "static/js/2.eba4ac5a.chunk.js",
     "static/css/main.0109b69b.chunk.css",
-    "static/js/main.3d9565d0.chunk.js"
+    "static/js/main.5642c1b6.chunk.js"
   ]
 }
