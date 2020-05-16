@@ -1,3 +1,5 @@
+![](screenshot.png)
+
 ## To run locally
 
 Clone this repo and run:
